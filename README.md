@@ -62,7 +62,7 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanhng23/hanhng23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanhng23/hanhng23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kai261199/hanhng23/output/github-snake.svg" />
 </picture>
